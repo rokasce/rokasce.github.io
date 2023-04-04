@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "package_name": "com.pelite.vpn",
     "sha256_cert_fingerprints":
     ["43:88:E6:86:2E:03:06:7A:E2:72:D3:81:81:7D:C4:10:B3:BE:26:15:EF:58:85:C4:01:D5:BF:83:5D:62:47:4C"]
   }
