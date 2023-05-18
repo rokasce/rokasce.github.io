@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.pelite.vpn",
-    "sha256_cert_fingerprints":
-    ["BB:8F:A6:44:CC:11:80:5C:B0:C7:70:F2:09:70:2F:EB:95:AB:EF:A9:CD:97:F4:F1:E0:71:B3:17:BF:D2:EE:15"]
-  }
-}]
